@@ -1,0 +1,45 @@
+html,
+body {
+  font-family: sans-serif;
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+#gameScreen {
+  width: 640px;
+  height: 480px;
+  border: 3px solid black;
+  margin: 0 auto;
+  background-color: #fff1d4;
+  position: relative;
+}
+#rock {
+  position: absolute;
+  top: 67%;
+  left: 14%;
+}
+
+#paper {
+  position: absolute;
+  top: 67%;
+  left: 39%;
+}
+
+#scissor {
+  position: absolute;
+  top: 67%;
+  left: 64%;
+}
+
+#battleText {
+  text-align: center;
+  font-size: 28px;
+  top: 38%;
+  position: relative;
+  font-family: Trebuchet MS, sans-serif;
+}
+
+/*This is animation section*/

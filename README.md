@@ -1,2 +1,0 @@
-# ohsom
-Created with CodeSandbox
